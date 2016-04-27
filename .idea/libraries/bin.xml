@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/httpclient-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jsoup-1.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/httpcore-4.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/boilerpipe-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nekohtml-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/xerces-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/super-csv-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

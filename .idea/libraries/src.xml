@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/httpclient-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/httpcore-4.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jsoup-1.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
